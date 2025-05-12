@@ -48,7 +48,7 @@ class Student1 {
 public class Student {
     public static void main(String[] args) {
         // Example student
-        Student student1 = new Student1("John Doe", "2004-05-15");
+        Student1 student = new Student1("John Doe", "2004-05-15");
         student.displayStudentInfo();
 
          // Semester 1 courses
